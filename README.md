@@ -1,7 +1,7 @@
 # ACB
 
 Lightweight spectral-spatial feature extraction network based on domain generalization for cross-scene hyperspectral image classification
-
+Please download the code in the master branch
 ```
 run main.py
 ```
